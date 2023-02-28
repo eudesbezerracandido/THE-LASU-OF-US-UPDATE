@@ -9,6 +9,7 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1dafeda728c85cf5907fc11481c1cf519eb98076$nome=EP.4</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1335ea9066a6d66fb62d1eed1a3e1424707e6c5a$nome=EP.5</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb312f286fac019acee404a66fdbd7ee9061bea5$nome=EP.6</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77226110449341facd1c723613e906bde509f487$nome=EP.7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/Af51qjxbjdaXMo1ZXFsZmhR9Ybw.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Situado duas décadas após a implosão de nossa sociedade, o drama seguirá Joel, um sobrevivente difícil, que é contratado para contrabandear uma garota de 14 anos chamada Ellie para fora de uma zona de quarentena opressiva. O que começa como um pequeno trabalho logo se torna uma jornada brutal e de partir o coração, já que os dois precisam atravessar os Estados Unidos e dependem um do outro para sobreviver.</info>
